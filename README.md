@@ -18,5 +18,5 @@ Script to backup and restore Chrome and Firefox bookmarks
 
 2.Run BrowserBackupAndRestore.bat
 
-3.Choose Restore..Files are from computername
+3.Choose Restore..Files are restored from computername
 
